@@ -1,3 +1,55 @@
-Manifest-Version: 1.0
-X-COMMENT: Main-Class will be added automatically by build
+Manual de Usuario del Sistema CRUD_Bimbo
+Introducción
+Bienvenido al Manual de Usuario del Sistema CRUD_Bimbo. Este sistema te permite realizar las operaciones básicas de crear, leer, actualizar y eliminar registros en una base de datos conectada a Xampp y MySQL. A continuación, te guiaré a través de cada una de estas operaciones.
+
+Requisitos Previos
+Antes de comenzar a utilizar el Sistema CRUD, asegúrate de que cumplas con los siguientes requisitos:
+
+Acceso a un dispositivo con conexión a Internet.
+Un navegador web actualizado, como Google Chrome, Mozilla Firefox, o Microsoft Edge.
+Credenciales de acceso al sistema (nombre de usuario y contraseña), si es necesario.
+
+Inicio de Sesión
+Abre tu navegador web y ve a la URL del Sistema CRUD.
+Ingresa tus credenciales de inicio de sesión (si es necesario) y haz clic en "Iniciar Sesión" o un botón similar.
+
+Operaciones CRUD
+
+*)Crear (Create)
+Para crear un nuevo registro en el sistema, sigue estos pasos:
+
+Desde el panel de inicio, selecciona la opción "Crear" o "Agregar Nuevo".
+Completa el formulario con la información requerida.
+Verifica que todos los campos obligatorios estén llenos.
+Haz clic en "Insertar" o "Crear" para agregar el nuevo registro a la base de datos.
+
+*)Leer (Read)
+Para consultar o leer un registro existente en el sistema, sigue estos pasos:
+
+Desde el panel de inicio, selecciona la opción "Buscar" o "Consultar".
+Ingresa los criterios de búsqueda, como un nombre, ID, o fecha.
+Haz clic en "Buscar" o "Consultar" para obtener los resultados.
+Selecciona el registro deseado para ver sus detalles.
+
+*)Actualizar (Update)
+Para modificar un registro existente en el sistema, sigue estos pasos:
+
+Desde el panel de inicio, selecciona la opción "Editar" o "Actualizar".
+Busca el registro que deseas modificar utilizando la función de búsqueda.
+Haz clic en el botón "Editar" junto al registro.
+Modifica los campos que necesites actualizar.
+Haz clic en "Guardar" o "Actualizar" para aplicar los cambios.
+
+*)Eliminar (Delete)
+Para eliminar un registro existente en el sistema, sigue estos pasos:
+
+Desde el panel de inicio, selecciona la opción "Eliminar" o "Borrar".
+Busca el registro que deseas eliminar utilizando la función de búsqueda.
+Haz clic en el botón "Eliminar" o "Borrar" junto al registro.
+Confirma la eliminación cuando se te solicite.
+Cierre de Sesión
+Para salir del sistema, haz clic en la opción "Cerrar Sesión" o "Salir" en el menú principal.
+
+Conclusión
+Este manual de usuario te ha proporcionado una visión general de cómo utilizar el Sistema CRUD_Bimbo para realizar operaciones básicas en una base de datos. Si necesitas ayuda adicional o tienes alguna pregunta, comunícate con el soporte técnico o el administrador del sistema. ¡Gracias por utilizar nuestro sistema!
 
